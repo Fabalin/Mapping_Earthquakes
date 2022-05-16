@@ -27,3 +27,4 @@ Additionally, the Repo includes two folders (Tutorials and Earthquakes_past7days
 - Plate Tectonic data derived from github user [fraxen](https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json)
 
 ## Results Showcase
+![satelliteview](https://github.com/Fabalin/Mapping_Earthquakes/blob/main/satelliteview.PNG)
